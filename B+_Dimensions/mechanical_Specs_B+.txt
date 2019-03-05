@@ -1,0 +1,21 @@
+Values are extracted from included image.
+
+Width:    58 + 2 * 3,5 =  65,00 mm
+Heigth:                   56,00 mm
+Corner radius:             3,00 mm
+Hole diameter:             2,75 mm
+Hole isolated diameter:    6,20 mm
+
+Hole position:
+  1.  x =  3,5 mm
+      y =  3,5 mm
+  2.  x = 61,5 mm
+      y =  3,5 mm
+  3.  x = 52,5 mm
+      y =  3,5 mm
+  4.  x = 61,5 mm
+      y = 52,5 mm
+
+Header position:
+      x = 32,5 mm
+      y =  3,5 mm
