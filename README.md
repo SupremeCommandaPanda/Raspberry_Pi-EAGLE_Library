@@ -1,11 +1,11 @@
 # Raspberry Pi Eagle Library
-The included Library is based on a Library that can be downloaded [here](https://www.mikrocontroller.net/topic/339008). It describes the layout of the Raspberry Pi B+ family and can be used to create a shield for the Raspberry Pi.
+The included library is based on a library that can be downloaded [here](https://www.mikrocontroller.net/topic/339008). It describes the layout of the Raspberry Pi B+ family and can be used to create a shield for the Raspberry Pi.
 
 
 ## Features
 It features following Raspberry Pi layouts:
 * full B/B+
-* smaller layout of B/B+ (does not include the ethernet Jack or the USB Type-A ports)
+* smaller layout of B/B+ (does not include the ethernet jack or the USB Type-A ports)
 
 ## Raspberry Pi B/B+
 
@@ -15,10 +15,10 @@ It features following Raspberry Pi layouts:
 Image downloaded from [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?t=81922). All rights reserved to raspberrypi.org.
 
 ### Values
-All of this data is extracted by the image.
+All the data is extracted from the image.
 
 ##### Dimensions
-Following values describe the part of the Raspberry PI between all four Holes.  
+The following values describe the part of the Raspberry PI between all four holes.  
 - Heigth: 56,00mm
 - Width: 65,00mm
 - Corner radius: 3,00mm
